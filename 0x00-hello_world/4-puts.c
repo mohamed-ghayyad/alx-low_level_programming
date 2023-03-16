@@ -1,13 +1,14 @@
 #include<stdio.h>
+
+int main(void)
+{
+
 /**
  *
- *
- * Prints exactly "Programming is like building a multilingual puzzle
- *
+ * Print our a comment with escaped quotes
  *
  */
-int main(void)
-{	
+
 puts("\"Programming is like building a multilingual puzzle");
 return 0;
 }
