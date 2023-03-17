@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
-* main - this function prints a comment
-* Return: 0 no matter.  
+*main - this function prints a comment
+*Return:0 no matter.
 */
 int main(void)
 {
