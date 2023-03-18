@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main -  a program that prints all possible combinations of single-digit numbers.
+ * main -  a program that prints all possible comb of s-digit numbers.
  *
  * Return: 0 always.
  */
